@@ -142,12 +142,6 @@ section .main .main_image img {
     margin-top: 5px;
 }
 
-/* Footer */
-footer{
-    padding: 20px 0;
-    background: #f8f9fa;
-    margin-top: 50px;
-}
 .product-card{
     width: 250px;
     padding: 15px;

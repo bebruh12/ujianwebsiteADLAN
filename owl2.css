@@ -154,3 +154,7 @@ section .main .main_image img {
     min-height: 380px; 
     text-align: center;
 }
+.imgres{
+    width:100px;
+    height:100px
+}
